@@ -1,4 +1,5 @@
 # MemoBit || [click and play](https://kind-forest-09d6a9f10.1.azurestaticapps.net/)
+This project is created under Future Ready Talent-Virtual Microsoft Internship.
 ## Problem Statement:
 In today's world, children aged 2 to 5 years old are exposed to a variety of games that have a negative impact on their cognitive abilities due to the presence of violence and sounds.
 Children exposed to violence can become immune or numb to it, imitate the violence they witness, and exhibit more aggressive behaviour as their exposure to violence increases. According to studies, the more realistic and repeated the exposure to violence is, the greater the impact on children. Kids can become overly involved, even obsessed, with video games, as I've seen a lot recently, especially in kids who only do online learning.
