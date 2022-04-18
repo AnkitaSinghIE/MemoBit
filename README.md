@@ -1,4 +1,4 @@
-# MemoBit || [click and play](https://kind-forest-09d6a9f10.1.azurestaticapps.net/)
+# MemoBit || https://sites.google.com/view/coronachatbotforyou/home
 This project is created under Future Ready Talent-Virtual Microsoft Internship.
 ## Problem Statement:
 In today's world, children aged 2 to 5 years old are exposed to a variety of games that have a negative impact on their cognitive abilities due to the presence of violence and sounds.
